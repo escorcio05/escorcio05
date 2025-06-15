@@ -3,7 +3,7 @@
 
 ---
 
-### 🌐 Social Media and Contacts:
+### 🌐 Contact Info:
 <p align="center">
   <a href="https://instagram.com/gui.escorcio"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
   <a href="mailto:guilherme.escorcio@icloud.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
@@ -12,7 +12,7 @@
 
 ---
 
-### 🛠️ Tech Stack:
+### 🛠️ Technical Skills:
 <p align="center">
   <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/non_2x/javascript-logo-javascript-icon-transparent-free-png.png" height="40" alt="JavaScript" />
   <img src="https://avatars.githubusercontent.com/u/21169439?s=280&v=4" height="40" alt="VHDL" />
