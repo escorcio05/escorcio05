@@ -23,6 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://e7.pngegg.com/pngimages/717/647/png-clipart-logo-karlovac-brand-graphic-design-font-matlab-logo-karlovac-thumbnail.png" height="40" alt="MatLab" />
 </p>
 
 ---
